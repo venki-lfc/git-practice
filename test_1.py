@@ -6,14 +6,24 @@ def myname(name):
     print("hello" + name)
 
 
-# fucntion to say hello peter
+# function to say hello peter
 def hello_peter():
     print("hello peter")
 
 
-# function for pl in main. other functions are not needed anymore
+# function to say lfc
+def lfc():
+    print("liverpool fc")
+
+
+# function for pl
 def pl():
     pass
+
+
+# function for adding numbers
+def addnum(num1, num2):
+    print(num1+num2)
 
 
 def square(num: int):
@@ -21,3 +31,5 @@ def square(num: int):
 
 
 print("my work is done")
+
+print("my work is also done")
