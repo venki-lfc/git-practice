@@ -18,3 +18,6 @@ def pl():
 
 def square(num: int):
     print(np.square(num))
+
+
+print("my work is done")
