@@ -7,3 +7,4 @@ A repository to practice git commands
 4. Making the fourth edit on local PC
 5. test_1.py has been created
 6. Branch1 created
+7. Branch2 created
