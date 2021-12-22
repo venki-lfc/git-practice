@@ -11,16 +11,10 @@ def hello_peter():
     print("hello peter")
 
 
-#function to say lfc
-def lfc():
-    print("liverpool fc")
-
-
-def pl2():
-    pass
-
-
-# function for pl in main
+# function for pl in main. other functions are not needed anymore
 def pl():
     pass
 
+
+def square(num: int):
+    print(np.square(num))
