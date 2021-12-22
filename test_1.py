@@ -24,3 +24,12 @@ def pl():
 # function for adding numbers
 def addnum(num1, num2):
     print(num1+num2)
+
+
+def square(num: int):
+    print(np.square(num))
+
+
+print("my work is done")
+
+print("my work is also done")
