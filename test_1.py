@@ -16,5 +16,11 @@ def lfc():
     print("liverpool fc")
 
 
+def pl2():
+    pass
+
+
+# function for pl in main
 def pl():
     pass
+
