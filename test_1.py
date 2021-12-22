@@ -14,3 +14,8 @@ def hello_peter():
 #function to say lfc
 def lfc():
     print("liverpool fc")
+
+
+# function for pl in main
+def pl():
+    pass
